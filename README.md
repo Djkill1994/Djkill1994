@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<!--
+
 **Djkill1994/Djkill1994** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
