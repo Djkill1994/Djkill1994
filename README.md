@@ -4,7 +4,7 @@
 - 💻 I’m currently working on [Clone Instagram](https://github.com/Djkill1994/instagram-jedi-app),
 - 🧬 Now I am improving my skills in front-end development,
 - 🔎 Looking for a job, open to offers,
-- 🤝 My mentor Senior Front-end developer [@Candyn](https://github.com/Candyn).
+- 🤝 My mentor Senior Front-end developer.
 
 
 My hobbies:
