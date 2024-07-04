@@ -1,11 +1,10 @@
 ### Hi there 👋
 
 
-- 💻 I’m currently working on [Clone Instagram](https://github.com/Djkill1994/instagram-jedi-app),
+- 💻 I’m currently working on [Accounting Outsourcing Landing](https://github.com/Djkill1994/accountingOutsourcingLanding),
 - 🧬 Now I am improving my skills in front-end development,
 - 🔎 Looking for a job, open to offers,
-- 🤝 My mentor Senior Front-end developer.
-
+-   Сompleted courses in web development using react from the company itransition
 
 My hobbies:
 - 👨‍💻 Self-study 
