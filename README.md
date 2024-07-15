@@ -13,8 +13,7 @@ I am a passionate front-end developer with over three years of experience specia
 
 ## Skills
 
-### Front-End Development
-- HTML5
+- HTML5                                                
 - CSS3
 - JavaScript (ES6+)
 - TypeScript
@@ -23,8 +22,6 @@ I am a passionate front-end developer with over three years of experience specia
 - TanStack (Query/Router)
 - Vite.js
 - Git
-
-### Additional Skills
 - Node.js
 - MongoDB
 - Express.js
@@ -51,15 +48,12 @@ I am a passionate front-end developer with over three years of experience specia
 
 ## Projects
 
-### [Employee Management System](https://github.com/djkill1994/employee-management-system)
+### [Employee Management System](https://github.com/Djkill1994/autwork2)
 A web application built with React and TypeScript for managing employee data, working hours, and projects. Integrated with Supabase for backend services including authentication and database management.
 
 ### [Landing Page for Accounting Firm](http://mybuhgalter.by/)
 Developed a responsive and SEO-optimized landing page for an accounting firm. Deployed and hosted on hoster.by.
 
-## Certifications
-
-- **Meta Front-End Developer Professional Certificate** (2024)
 
 ## Contact
 
