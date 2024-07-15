@@ -1,30 +1,74 @@
-### Hi there 👋
+# Владислав Бруёк - Front-End Developer
 
+![Profile Views](https://komarev.com/ghpvc/?username=djkill1994)
 
-- 💻 I’m currently working on [Accounting Outsourcing Landing](https://github.com/Djkill1994/accountingOutsourcingLanding),
-- 🧬 Now I am improving my skills in front-end development,
-- 🔎 Looking for a job, open to offers,
--   Сompleted courses in web development using react from the company itransition
+## About Me
 
-My hobbies:
-- 👨‍💻 Self-study 
-- 💻 IT technologies
-- 🎵 Music
-- 📽 Movies, serials
-- 💪 Sport
+I am a passionate front-end developer with over three years of experience specializing in React development. I have worked on numerous projects, ranging from personal pet projects to professional freelancing assignments. My focus is on creating responsive, user-friendly interfaces and optimizing web performance.
 
-My tech stack:
+- **Location**: Minsk, Belarus
+- **Email**: [djkill911@gmail.com](mailto:djkill911@gmail.com)
+- **LinkedIn**: [Vlad Bruyok](https://www.linkedin.com/in/vlad-bruyok)
+- **Telegram**: [@djkill1994](https://t.me/djkill1994)
 
+## Skills
 
-![icons8-javascript](https://user-images.githubusercontent.com/84898137/163675725-5cf4dbd7-d5c1-4aae-9dfb-e0f35501facb.png)
-![icons8-html-5](https://user-images.githubusercontent.com/84898137/163675719-092062fa-0d68-4386-9dea-7531657b6ce8.png)
-![icons8-css3](https://user-images.githubusercontent.com/84898137/163675720-a294abc2-8177-4a9d-8ea2-d79be9247bf3.png)
-![icons8-typescript](https://user-images.githubusercontent.com/84898137/163675724-e5d9ba1b-63be-4127-aebf-bc0db089045c.png)
-![icons8-redux](https://user-images.githubusercontent.com/84898137/163675721-e9cdb4d7-41eb-45bb-9082-4348c9f9018b.png)
-![icons8-react](https://user-images.githubusercontent.com/84898137/163675726-24bf6905-5bb4-4dbe-968c-16471036ddd5.png)
-![icons8-git](https://user-images.githubusercontent.com/84898137/163675718-18e3956c-56d8-4764-a2ec-08e95ba26e62.png)
-![icons8-material-ui](https://user-images.githubusercontent.com/84898137/163675722-71cb75a8-0e1b-4328-84f4-d064d57d00ea.png)
+### Front-End Development
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- TypeScript
+- React.js
+- Redux
+- TanStack (Query/Router)
+- Vite.js
+- Git
 
-### 🤝 Connect with me!
+### Additional Skills
+- Node.js
+- MongoDB
+- Express.js
+- Material-UI
+- Tailwind CSS
+- React Hook Form
+- Next.js
+- Supabase
+- Redux Toolkit
 
-[![djkill911@gmail.com](https://img.shields.io/badge/djkill911@gmail.com%20-%23E62B1E.svg?&style=for-the-badge&logoColor=white)](mailto:djkill911@gmail.com) [![linkedin](https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vlad-bruyok/) [![Telegram](https://img.shields.io/badge/Telegram%20-%230077B5.svg?&style=for-the-badge&logo=Telegram&logoColor=white)](https://t.me/Djkill1994)
+## Experience
+
+### Freelance Developer
+**February 2024 - Present**
+
+- **Landing Page for Accounting Firm**: Developed a responsive landing page with SEO optimization. Deployed on [hoster.by](http://mybuhgalter.by/).
+- **Employee Management Web Application**: Created a web app for a Polish outsourcing company using React and TypeScript, with Supabase for backend services.
+
+### Education
+
+- **Meta Front-End Developer Professional Certificate** (2024)
+- **Front-End Developer Course** (2021-2022)
+- **Software Development Trainings** (2023)
+
+## Projects
+
+### [Employee Management System](https://github.com/djkill1994/employee-management-system)
+A web application built with React and TypeScript for managing employee data, working hours, and projects. Integrated with Supabase for backend services including authentication and database management.
+
+### [Landing Page for Accounting Firm](http://mybuhgalter.by/)
+Developed a responsive and SEO-optimized landing page for an accounting firm. Deployed and hosted on hoster.by.
+
+## Certifications
+
+- **Meta Front-End Developer Professional Certificate** (2024)
+
+## Contact
+
+Feel free to reach out to me for collaboration or any inquiries.
+
+- **Email**: [djkill911@gmail.com](mailto:djkill911@gmail.com)
+- **LinkedIn**: [Vlad Bruyok](https://www.linkedin.com/in/vlad-bruyok)
+- **GitHub**: [djkill1994](https://github.com/djkill1994)
+- **Telegram**: [@djkill1994](https://t.me/djkill1994)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=djkill1994&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=djkill1994&show_icons=true&theme=radical)
