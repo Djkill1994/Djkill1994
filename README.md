@@ -1,4 +1,4 @@
-# Владислав Бруёк - Front-End Developer
+# Vlad Bruyok - Front-End Developer
 
 ![Profile Views](https://komarev.com/ghpvc/?username=djkill1994)
 
